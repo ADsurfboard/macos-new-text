@@ -14,6 +14,10 @@
 
 ## 安装
 
+普通用户可在 [Releases](https://github.com/ADsurfboard/macos-new-text/releases) 下载打包好的应用，解压后将“新建文本.app”移动到“应用程序”文件夹。由于当前开源版本未使用 Apple Developer ID 公证，首次启动时请在访达中右键应用并选择“打开”。
+
+从源码安装：
+
 ```bash
 ./Scripts/install.sh
 ```
